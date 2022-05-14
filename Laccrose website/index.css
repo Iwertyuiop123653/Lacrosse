@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+h1{
+    font-family: Comfortaa;
+}
+
+h2{
+    font-family: Comfortaa;
+}
+
+h3{
+    font-size: 0.5cm;
+    font-family: Comfortaa;
+}
+
+ul{
+    font-size: 0.7cm;
+    font-family: Comfortaa;
+}
+
+iframe{
+    align-items: center;
+}
