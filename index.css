@@ -172,3 +172,8 @@ p{
     top: 900px;
     left: 170px;
 }
+
+marquee {
+    font-size: 2cm;
+    font-family: Comfortaa;    
+}
