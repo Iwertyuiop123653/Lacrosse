@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Comfortaa&family=Pacifico&display=swap');
 
 h1{
     font-family: Comfortaa;
@@ -9,13 +9,13 @@ h2{
 }
 
 h3{
-    font-size: 0.5cm;
-    font-family: Comfortaa;
+    font-size: 0.6cm;
+    font-family: Chewy;
 }
 
 ul{
     font-size: 0.7cm;
-    font-family: Comfortaa;
+    font-family: Pacifico;
 }
 
 iframe{
@@ -23,6 +23,7 @@ iframe{
 }
 
 .RED{
+    font-family: Comfortaa;
     color:#FF0000
 }
 
